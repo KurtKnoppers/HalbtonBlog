@@ -1,0 +1,12 @@
+baseurl = "https://example.org/"
+title = "Blog"
+author = "HalbtonFoto"
+paginate = 3
+theme = "arabica"
+
+[params]
+    description = "HalbtonFoto Blog"
+    dateFormatToUse = "2006-01-02"
+    replaceGoogleFonts = "fonts.loli.net"
+#    twitter = "example"
+#    facebook = "example"
