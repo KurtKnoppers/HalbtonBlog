@@ -1,11 +1,11 @@
-baseurl = "https://example.org/"
-title = "Blog"
+baseurl = "https://Halbtonfoto.de"
+title = "HalbtonFoto"
 author = "HalbtonFoto"
 paginate = 3
 theme = "arabica"
 
 [params]
-    description = "HalbtonFoto Blog"
+    description = "Blog"
     dateFormatToUse = "2006-01-02"
     replaceGoogleFonts = "fonts.loli.net"
 #    twitter = "example"
