@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: vigilant-galileo-ea7fd2.netlify.com
+Token: 3b2378f421c65998da82e6071ae984604cfa9f3132d39cd800ec365aa7329990
